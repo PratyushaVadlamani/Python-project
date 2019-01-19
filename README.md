@@ -13,7 +13,7 @@ Modules used
 
 Details
 
-This data analysis projects begin with trying to answer questions.
+This data analysis project begin with trying to answer questions.
 
 1.) Who were the passengers on the Titanic? (Ages,Gender,Class,..etc)
 
