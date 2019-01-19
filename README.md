@@ -2,7 +2,7 @@
 
 In this project I have done data analysis of titanic ship tragedy using python.
 
-###Modules used 
+Modules used 
 1.Pandas
 
 2.Numpy
@@ -11,7 +11,7 @@ In this project I have done data analysis of titanic ship tragedy using python.
 
 4.Matplotlib
 
-###Details
+Details
 
 This data analysis projects begin with trying to answer questions.
 
